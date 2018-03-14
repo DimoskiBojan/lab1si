@@ -1,0 +1,17 @@
+Kreirav novi fajlovi so touch <ime_na_fajl.tip>
+1. Git e vekje instaliran.
+2. Kreirav nov direktorium lab1 i potoa Right Click -> Git Bash Here -> git init
+3. ??????? ???? ?????????? ???????? l1.txt
+4. ?? ???????? ?????? l1.txt
+5. git add l1.txt ili mozhe git add --all, potoa git commit -m "Initial commit"
+6. ?? ???????? ?????? l1.txt
+7. git add l1.txt, potoa git commit -m "modify l1.txt"
+8. OK
+9. git remote add origin https://github.com/DimoskiBojan/lab1si.git
+10. git push -u origin master (login prompt)
+11. otkako go editirav: git checkout -- l1.txt
+12. git checkout -b logging
+13. git log > log.txt
+14. git push origin logging (pred toa git add log.txt, git commit -m "Added log.txt to logging")
+15. git checkout master, git merge logging, git push origin :logging, git branch -d logging, git push
+16. git checkout -b allcommands
