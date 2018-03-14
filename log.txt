@@ -1,0 +1,11 @@
+commit c2dd11f57dc134584c04079791afd5cb6d8da9a2
+Author: unknown <bojan.dimoski@students.finki.ukim.mk>
+Date:   Wed Mar 14 17:28:02 2018 +0100
+
+    modify l1.txt
+
+commit d611e93ab5ba63dce78fdbf251b8a41ce7098b8e
+Author: unknown <bojan.dimoski@students.finki.ukim.mk>
+Date:   Wed Mar 14 17:25:57 2018 +0100
+
+    Initial commit
